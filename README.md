@@ -121,12 +121,15 @@ Zeng, Y., & Shin, K. G. (2009). On Detection of Storm Botnets. Ann Arbor: Univer
 ## Appendices
 
 Appendix 1A - A diagram of a typical P2P botnet. Note the lack of a centralized control point.
+
 ![image](https://github.com/MikolajMroz/Storm-Botnet-Forensic-Research-Report/assets/98950042/cbb098f4-599e-4774-a589-ceb036042379)
 
 Appendix 1B - An example small business network 
+
 ![image](https://github.com/MikolajMroz/Storm-Botnet-Forensic-Research-Report/assets/98950042/ec359bd4-767e-4ac4-bd02-95ccf019cfa5)
 
 Appendix 1C - eDonkey transmission from Storm (via https://www.secureworks.com/research/storm-worm) 
+
 ![image](https://github.com/MikolajMroz/Storm-Botnet-Forensic-Research-Report/assets/98950042/2ae5af17-052f-4b1e-b9f8-4515b3490586)
 
 
